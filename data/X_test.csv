@@ -1,0 +1,11 @@
+symptoms_1,symptoms_2,medicine,age_group,recommended_doctor
+sore throat,constipation,Metformin,41-60,"Dr. Anjali Sharma (General Physician, City Care Hospital, Aurangabad)"
+dizziness,constipation,Ibuprofen,0-12,"Dr. Saima Ansari (ENT Specialist, Arogyam ENT Care, Aurangabad)"
+back pain,rash,Aspirin,41-60,"Dr. Fatima Khan (Gynecologist, Noor Women's Hospital, Aurangabad)"
+burning urination,nausea,Aspirin,13-19,"Dr. Mohammed Usman (Pediatrician, Children's Health Hub, Aurangabad)"
+eye redness,burning urination,Cetirizine,20-40,"Dr. Mohammed Usman (Pediatrician, Children's Health Hub, Aurangabad)"
+loss of appetite,dry mouth,Sertraline,13-19,"Dr. Fatima Khan (Gynecologist, Noor Women's Hospital, Aurangabad)"
+rash,fatigue,Diclofenac,0-12,"Dr. Sneha Jadhav (Neurologist, Mind Care Hospital, Aurangabad)"
+nausea,sore throat,Cetirizine,0-12,"Dr. Mohammed Usman (Pediatrician, Children's Health Hub, Aurangabad)"
+tremors,swelling,Sertraline,20-40,"Dr. Yusuf Qureshi (Orthopedic, Bone & Joint Centre, Aurangabad)"
+headache,blurred vision,Nitrofurantoin,0-12,"Dr. Sneha Jadhav (Neurologist, Mind Care Hospital, Aurangabad)"
