@@ -21,3 +21,15 @@ jobs:
         key: ${{ secrets.EC2_SSH_KEY }}
         source: "."
         target: "/home/ubuntu/CareGenicV2"
+
+    - name: Run SSH Commands on EC2
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.EC2_HOST }}
+        username: ubuntu
+        key: ${{ secrets.EC2_SSH_KEY }}
+        script: |
+          cd CareGenicV2
+          python3 -m venv .venv
+          source .venv/bin/activate
+          pip install -r requirements.txt
